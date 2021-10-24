@@ -1,4 +1,4 @@
 # CTI110 Repository
-Created for P1LAB2
-Grachen
-09/20/2021
+Created for Web, Programming, and Database Foundation Class
+Features HTML (with a peppering of CSS) and Python Fundamental coding assignments for
+FALL2021 Semester
